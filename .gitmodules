@@ -1,0 +1,6 @@
+[submodule "x-call-tracker-ui"]
+	path = x-call-tracker-ui
+	url = https://github.com/hfccr/x-call-tracker-ui.git
+[submodule "x-call-contracts"]
+	path = x-call-contracts
+	url = https://github.com/hfccr/x-call-contracts.git
